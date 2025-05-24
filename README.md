@@ -1,7 +1,7 @@
 # TrafficComposer
 The official repo for the FSE 2025 paper "Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing".
 
-[Project Homepage](https://hcss.cs.purdue.edu/trafficcomposer/) | [GitHub](https://github.com/TrafficComposer/TrafficComposer/)
+[Project Homepage](https://hcss.cs.purdue.edu/trafficcomposer/) | [GitHub](https://github.com/TrafficComposer/TrafficComposer/) | [arXiv](https://arxiv.org/pdf/2505.14881)
 
 <p align="center">
   <img src="./resources/pipeline.jpg"/>
