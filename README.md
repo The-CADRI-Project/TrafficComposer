@@ -9,12 +9,21 @@ The official repo for the FSE 2025 paper "Multi-modal Traffic Scenario Generatio
 
 ## Cite
 ```
-@article{tu2025trafficcomposer,
-  title={Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing},
-  author={Tu, Zhi and Niu, Liangkun and Fan, Wei and Zhang, Tianyi},
-  journal={Proceedings of the ACM on Software Engineering},
-  year={2025},
-  number={FSE},
-  publisher={ACM New York, NY, USA},
+@article{10.1145/3729348,
+  author = {Tu, Zhi and Niu, Liangkun and Fan, Wei and Zhang, Tianyi},
+  title = {Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing},
+  year = {2025},
+  issue_date = {July 2025},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {2},
+  number = {FSE},
+  url = {https://doi.org/10.1145/3729348},
+  doi = {10.1145/3729348},
+  journal = {Proc. ACM Softw. Eng.},
+  month = jun,
+  articleno = {FSE078},
+  numpages = {24},
+  keywords = {Autonomous Driving System, Software Testing, Traffic Scenario Generation}
 }
 ```
