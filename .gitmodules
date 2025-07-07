@@ -1,0 +1,3 @@
+[submodule "fuzzing/carla/drivefuzz"]
+	path = fuzzing/carla/drivefuzz
+	url = https://github.com/TrafficComposer/drivefuzz-fork
